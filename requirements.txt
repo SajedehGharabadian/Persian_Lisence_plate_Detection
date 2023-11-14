@@ -1,0 +1,4 @@
+ultralytics
+matplotlib
+opencv-python
+scikit-learn
