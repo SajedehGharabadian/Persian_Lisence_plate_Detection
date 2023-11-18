@@ -13,7 +13,7 @@ run  ```license_plate_detection.ipynb``` and train model.
 
 ## Confusion Matrix
 
-![image](https://github.com/SajedehGharabadian/Persian_Lisence_plate_Detection/assets/76538787/7ef6b893-64cb-4819-ab0b-593bc6d6b9b9)
+![image](https://github.com/SajedehGharabadian/Persian_Lisence_plate_Detection/assets/76538787/208425e3-2f4c-4bc5-9d28-5204e2f5cc8d)
 
 
 ## Infrence
