@@ -1,6 +1,6 @@
 # Persian License Plate Detection YOLO v8
 
-Lisence plate detection using YOLO v8 from ultralytics.
+Lisence plate detection using YOLO v8 from ultralytics
 
 ## How to install
 ```
